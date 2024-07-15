@@ -1,0 +1,1 @@
+This is a Real State Web Application based on MERN(mongoDB, express, react, node) stack. Here, Prisma is also used in between the mongo database and express api as it provides flexibility for database query incase a different database package is used in the future. 
